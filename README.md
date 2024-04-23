@@ -2,6 +2,10 @@
 
 .NET 8.0 - Basic HTTP Authentication API
 
+# Last updated
+
+- 23-04-2024
+
 # Creates a global json
 
 dotnet new globaljson --sdk-version 8.0.203 --force

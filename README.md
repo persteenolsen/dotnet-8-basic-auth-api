@@ -4,7 +4,7 @@
 
 # Last updated
 
-- 23-04-2024
+- 18-08-2024
 
 # Creates a global json
 
